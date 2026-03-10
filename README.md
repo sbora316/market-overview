@@ -1,10 +1,10 @@
 # React + TypeScript + Vite
 
-# 📈 Market Overview Dashboard
+#  Market Overview Dashboard
 
 A modern, responsive React application that tracks daily stock market movers. It displays the top gaining, losing, and most active stocks, complete with dynamic styling and 14-day trend sparklines.
 
-## ✨ Features
+## Features
 
 - **Real-Time Market Data:** Fetches today's market winners, losers, and active stocks using the Financial Modeling Prep (FMP) API.
 - **Global State Management:** Uses React's Context API to fetch data exactly once and share it seamlessly across multiple pages.
@@ -12,7 +12,7 @@ A modern, responsive React application that tracks daily stock market movers. It
 - **Dynamic Styling:** Table rows automatically color-code text and badges (green for positive, red for negative) based on the stock's performance.
 - **Client-Side Routing:** Fast, seamless navigation between different market views without page reloads.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework:** React (Bootstrapped with Vite)
 - **Language:** TypeScript
